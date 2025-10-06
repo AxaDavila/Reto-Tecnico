@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automatización del componente jQuery Datepicker","Reserva de una cita seleccionando una fecha en el calendario","SUCCESS","2025-10-06T04:45:23.585514-05:00[America/Bogota]","0.0","5.05"
+"Automatización del componente jQuery Datepicker","Selección de una fecha específica en un mes diferente","SUCCESS","2025-10-06T04:45:28.675851-05:00[America/Bogota]","0.0","2.82"
+"Automatización del componente jQuery Datepicker","Validación de campo bloqueado","SUCCESS","2025-10-06T04:45:31.499475-05:00[America/Bogota]","0.0","2.53"
